@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elekta.Code.Challenge.Api", "Elekta.Code.Challenge.Api.csproj", "{1750519B-B64A-4F4D-8839-FD40AFC3486A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elekta.Code.Challenge.Api.Tests", "..\Elekta.Code.Challenge.Api.Tests\Elekta.Code.Challenge.Api.Tests.csproj", "{7C17B517-0088-4396-9AC7-AF7927DB4F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1750519B-B64A-4F4D-8839-FD40AFC3486A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1750519B-B64A-4F4D-8839-FD40AFC3486A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1750519B-B64A-4F4D-8839-FD40AFC3486A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1750519B-B64A-4F4D-8839-FD40AFC3486A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C17B517-0088-4396-9AC7-AF7927DB4F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C17B517-0088-4396-9AC7-AF7927DB4F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C17B517-0088-4396-9AC7-AF7927DB4F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C17B517-0088-4396-9AC7-AF7927DB4F95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D69D1E43-EF05-4D16-B737-60B3D1987678}
+	EndGlobalSection
+EndGlobal
